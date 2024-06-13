@@ -2,11 +2,11 @@
 
 ## Le challenge
 
-Création d'une animation qui permet l'apparition de coeurs qui suivent les mouvements de la souris.
+Création d'une animation qui permet l'apparition de plusieurs coeurs qui suivent les mouvements de la souris.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/heart_trial_animation/
 
 ## Développez avec
 
